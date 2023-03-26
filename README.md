@@ -1,2 +1,2 @@
-# Glithage
+# Glither
 EXPERIMENTAL IMAGE/VIDEO GLITCHER
